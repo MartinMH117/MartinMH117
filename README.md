@@ -1,16 +1,29 @@
-## Hi there 👋
+# Mi Perfil en GitHub
 
-<!--
-**MartinMH117/MartinMH117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¡Hola! 👋
 
-Here are some ideas to get you started:
+Soy **Martin**, un apasionado desarrollador de Java con experiencia en el desarrollo de aplicaciones web. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías. Aquí encontrarás información sobre mi experiencia, habilidades y más.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Acerca de Mí
+- 🌍 **Ubicación**: *México*
+- 💼 **Profesión**: *Desarrollador Java*
+
+## Habilidades
+- **Backend**: `Java`, `Spring`
+- **Frontend**: `JavaScript`, `Vue`, `HTML`, `CSS`
+- **Bases de Datos**: `PostgreSQL`, `Oracle`
+- **DevOps**: `Docker`, `Jenkins`
+
+## Empleo Actual
+- **Desarrollador Sr** en **SENASICA** *(Noviembre 2023 - Presente)*
+  - Diseño, implementación y mantenimiento de la lógica de negocio del backend de una aplicación mediante microservicios.
+  - Gestión de servicios de autenticación, configuración de gateway y servicios de catálogo.
+
+## Educación
+- **Ingeniería en Robótica Industrial** - *Instituto Politécnico Nacional*
+
+## Contacto
+- 📧 **Correo Electrónico**: [mmorahernandez66@gmail.com](mailto:mmorahernandez66@gmail.com)
+
+## Agradecimientos
+¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o si deseas colaborar en algún proyecto.
